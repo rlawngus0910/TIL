@@ -5,7 +5,7 @@
 
 ## Spring
 
-- [Spring MVC 설정 방법 (내용 추가 예정)](Spring/Spring MVC.md)
+- [Spring MVC 설정 방법 (내용 추가 예정)](https://github.com/rlawngus0910/TIL/blob/main/Spring/Spring%20MVC.md)
 
 ## Algorithm
 
